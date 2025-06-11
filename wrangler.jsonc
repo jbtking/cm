@@ -1,0 +1,5 @@
+{
+  "name": "cm-worker",
+  "compatibility_date": "2025-06-09",
+  "main": "_worker.js"
+}
